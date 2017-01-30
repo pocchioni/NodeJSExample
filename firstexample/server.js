@@ -33,8 +33,8 @@ http.createServer(function(request, response) {
             response.end(data);
         });
 
-    //console.log(math.sum(num1,num2));
-    //console.log(math.prod(num1,num2));
+    console.log(math.sum(num1,num2));
+    console.log(math.prod(num1,num2));
 
 
   });
