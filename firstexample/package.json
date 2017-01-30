@@ -1,0 +1,9 @@
+{
+  "name": "SimpleNodeJSexample",
+  "main": "server.js",
+  "private": true,
+  "dependencies": {
+    "bind": "^0.1.7"
+  },
+  "devDependencies": {}
+}
