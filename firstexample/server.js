@@ -1,5 +1,5 @@
 
-var port = process.env.PORT || 1337;
+var port = process.env.PORT || 3000;
 var http = require('http');
 var math = require('./math.js');
 var bind = require("bind");
@@ -33,8 +33,8 @@ http.createServer(function(request, response) {
             response.end(data);
         });
 
-    console.log(math.sum(num1,num2));
-    console.log(math.prod(num1,num2));
+    //console.log(math.sum(num1,num2));
+    //console.log(math.prod(num1,num2));
 
 
   });

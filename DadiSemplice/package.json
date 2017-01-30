@@ -1,0 +1,7 @@
+{
+  "name": "DadiSemplice",
+  "main": "server.js",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {}
+}
